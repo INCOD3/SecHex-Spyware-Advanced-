@@ -3,10 +3,10 @@
 Hey, this is my new Project "BXSC-RAT"! 🕷
 
 ## Free Features:
--Webhooks
--Chrome Cookies
--Screen Recording
--AntiVirus Safe (tested with 25 AV's)
+-Webhooks                                            
+-Chrome Cookies                                            
+-Screen Recording                                            
+-AntiVirus Safe (tested with 25 AV's)                                            
 
 
 ## Full Features:
