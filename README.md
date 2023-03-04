@@ -10,16 +10,16 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 
 
 ## Full Features:
--Webhooks
--Keylogger
--AntiVirus Safe (tested with 37 AV's)
--Behind Windows Files (reset requrequired)
--Screen Recording
--Mic Recording
--Webcam Recording
--Blocking VM's
--Browser Cookies
--PDF, DOCS, PNG Scanning system
+-Webhooks                                            
+-Keylogger                                            
+-AntiVirus Safe (tested with 37 AV's)                                            
+-Behind Windows Files (reset requrequired)                                            
+-Screen Recording                                            
+-Mic Recording                                            
+-Webcam Recording                                            
+-Blocking VM's                                            
+-Browser Cookies                                            
+-PDF, DOCS, PNG Scanning system                                            
 
 
 # Disclaimer
