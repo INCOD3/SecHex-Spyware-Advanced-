@@ -7,6 +7,8 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 -Chrome Cookies                                            
 -Screen Recording                                            
 -AntiVirus Safe (tested with 25 AV's)                                            
+-IP Address                                            
+-System Informations                                             
 
 
 ## Full Features:
@@ -19,8 +21,9 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 -Webcam Recording                                            
 -Blocking VM's                                            
 -Browser Cookies                                            
--PDF, DOCS, PNG Scanning system                                            
-
+-PDF, DOCS, PNG Scanning system      
+-IP Address                                      
+-System Informations                                            
 
 ## How to get Access?
 Access only per DM
