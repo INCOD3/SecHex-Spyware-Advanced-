@@ -15,7 +15,7 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 -Webhooks                                            
 -Keylogger                                            
 -AntiVirus Safe (tested with 37 AV's)                                            
--Behind Windows Files (reset requrequired)                                            
+-Behind Windows Files (reset required)                                            
 -Screen Recording                                            
 -Mic Recording                                            
 -Webcam Recording                                            
