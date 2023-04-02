@@ -12,7 +12,7 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 
 
 ## Full Features:
--Webhooks                                            
+-Discord Webhooks / Telegram Bot                                            
 -Keylogger                                            
 -AntiVirus Safe (tested with 37 AV's)                                            
 -Behind Windows Files (reset required)                                            
