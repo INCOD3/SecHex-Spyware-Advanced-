@@ -6,7 +6,7 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 -Webhooks                                            
 -Chrome Cookies                                            
 -Screen Recording                                            
--AntiVirus Safe (tested with 25 AV's)                                            
+-AntiVirus thinks im a dating app lol   [Tested with 37AVs]                                      
 -IP Address                                            
 -System Informations                                             
 
@@ -14,7 +14,7 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 ## Full Features:
 -Discord Webhooks / Telegram Bot                                            
 -Keylogger                                            
--AntiVirus Safe (tested with 37 AV's)                                            
+-AntiVirus thinks im a dating app lol   [Tested with 37AVs]                                        
 -Behind Windows Files (reset required)                                            
 -Screen Recording                                            
 -Mic Recording                                            
