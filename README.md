@@ -26,7 +26,6 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 -System Informations                                            
 
 ## How to get Access?
-Access only per DM
 you know where you find me.
 
 
