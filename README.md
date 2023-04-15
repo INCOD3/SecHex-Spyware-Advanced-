@@ -27,7 +27,7 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 
 ## How to get Access?
 Access only per DM
-t.me/KXLLYXU_DX
+you know where you find me.
 
 
 # Disclaimer
