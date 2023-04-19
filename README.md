@@ -21,7 +21,7 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 -Webcam Recording                                            
 -Blocking VM's                                            
 -Browser Cookies                                            
--PDF, DOCS, PNG Scanning      
+-PDF, DOCS, PNG Scanner [Every 4h]   
 -IP Address                                      
 -System Informations                                            
 
