@@ -23,7 +23,8 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 -Browser Cookies                                            
 -PDF, DOCS, PNG Scanner [Every 4h]   
 -IP Address                                      
--System Informations                                            
+-System Informations       
+-Discord Tokkens
 
 ## How to get Access?
 you know where you find me.
