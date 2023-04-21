@@ -15,7 +15,7 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 -Discord Webhooks / Telegram Bot                                            
 -Keylogger                                            
 -AntiVirus Safe   [Tested with 37AVs]                                        
--Behind Windows Files (reset required)                                            
+-Tarned as Windows Files (reset required)                                            
 -Screen Recording                                            
 -Mic Recording                                            
 -Webcam Recording                                            
