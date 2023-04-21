@@ -26,6 +26,10 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 -System Informations       
 -Discord Tokkens
 
+
+![2](https://user-images.githubusercontent.com/96635023/233648827-2b5ac0a5-8bbe-48fe-bfe9-8e1e427f862a.png)
+
+
 ## How to get Access?
 you know where you find me.
 
