@@ -31,7 +31,7 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 
 
 ## How to get Access?
-you know where you find me.
+source is currently private.
 
 
 # Disclaimer
