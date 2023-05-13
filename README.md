@@ -1,15 +1,6 @@
 # Spyware-Advanced
 
-Hey, this is my new Project "BXSC-RAT"! 🕷
-
-## Free Features:
--Webhooks                                            
--Chrome Cookies                                            
--Screen Recording                                            
--AntiVirus Safe   [Tested with 37AVs]                                      
--IP Address                                            
--System Informations                                             
-
+Hey, this is my new Project "BXSC-RAT"! 🕷 (Source is currently private...) 
 
 ## Full Features:
 -Discord Webhooks / Telegram Bot                                            
@@ -31,7 +22,7 @@ Hey, this is my new Project "BXSC-RAT"! 🕷
 
 
 ## How to get Access?
-source is currently private.
+/
 
 
 # Disclaimer
