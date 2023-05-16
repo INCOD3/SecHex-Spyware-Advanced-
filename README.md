@@ -1,6 +1,6 @@
 # Spyware-Advanced
 
-Hey, this is my new Project "BXSC-RAT"! 🕷 (Source is currently private...) 
+Hey, this is my new Project "SecHex-RAT"! 🕷 (Source is currently private...) 
 
 ## Full Features:
 -Discord Webhooks / Telegram Bot                                            
