@@ -9,8 +9,7 @@ Hey, this is my new Project "SecHex-RAT"! 🕷 (Source is currently private...)
 -Tarned as Windows File                                           
 -Screen Recording                                            
 -Mic Recording                                            
--Webcam Recording                                            
--Blocking VM's                                            
+-Webcam Recording                                                                                   
 -Browser Cookies                                            
 -PDF, DOCS, PNG Scanner [Every 4h]   
 -IP Address                                      
